@@ -1,0 +1,6 @@
+stackoverflow answers:
+
+https://stackoverflow.com/questions/53443015/how-to-get-values-without-key-from-json-object-in-javascript/53443050#53443050
+https://stackoverflow.com/questions/53443042/enable-and-disable-dates-jquery-using-datepicker/53443154#53443154
+https://stackoverflow.com/questions/53443355/proper-behaviour-for-publicly-available-api-resource-requested-using-expired-aut/53443461
+https://stackoverflow.com/questions/53442845/i-want-to-display-messages-only-once-not-many-times/53443674
